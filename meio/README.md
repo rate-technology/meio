@@ -19,5 +19,5 @@ Check tests in `lib.rs` file to see how it works.
 It has experimental WASM support. To activate use:
 
 ```toml
-meio = { default-features = false, feautres = ["wasm"] }
+meio = { default-features = false, features = ["wasm"] }
 ```
